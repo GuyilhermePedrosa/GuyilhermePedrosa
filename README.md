@@ -1,4 +1,4 @@
-# Olá, eu sou Guilherme 🎮👋
+# Olá, eu sou Guilherme 🥶
 
 ## Sobre mim
 - 🎓 *Estudo **Química** na UFV e **Análise e Desenvolvimento de Sistemas (ADS) Univiçosa**  
