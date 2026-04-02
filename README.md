@@ -1,7 +1,7 @@
 # Olá, eu sou Guilherme 🎮👋
 
 ## Sobre mim
-- 🎓 Estudo **Química** na UFV e **Análise e Desenvolvimento de Sistemas (ADS) Univiçosa**  
+- 🎓 *Estudo **Química** na UFV e **Análise e Desenvolvimento de Sistemas (ADS) Univiçosa**  
 - 🧪 PIBID Química – ensino e aprendizado  
 - 💡 Apaixonado por ciência, programação e inovação  
 - 🎮 Gamer nas horas vagas – adoro FPS, RPG e estratégia  
